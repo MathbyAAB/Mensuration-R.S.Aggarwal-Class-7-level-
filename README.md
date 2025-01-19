@@ -1,1 +1,1 @@
-# My first npm package!
+# My first pip package!
